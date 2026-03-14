@@ -244,7 +244,7 @@ img {
     align-items: center;
     justify-content: center;
 
-    width: 264px;
+    width: 100%;
     height: 112px;
 
     background-color: #f4f4fd;
@@ -426,7 +426,7 @@ img {
 }
 
 .team-social-link svg {
-    fill: #ffffff;
+    fill: #f4f4fd;
 }
 
 .team-social-link:hover,
